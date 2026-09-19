@@ -19,10 +19,10 @@
 ---
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════╗
 ║                         TALHA GILLANI                              ║
 ║                    AI • ROBOTICS • SOFTWARE                        ║
-╠══════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════════╣
 ║                                                                    ║
 ║  STATUS       : ONLINE                                             ║
 ║  ROLE         : BS AI STUDENT                                      ║
@@ -31,7 +31,7 @@
 ║                                                                    ║
 ║  CURRENT OPS  : AUTONOMOUS DRIVING + REINFORCEMENT LEARNING        ║
 ║                                                                    ║
-╚══════════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 ## `01 // ABOUT_ME`
@@ -192,21 +192,21 @@ STACK     : Python / TrOCR / PaddleOCR / FastAPI
 An end-to-end OCR system designed to transform handwritten notes into editable digital documents.
 
 ```text
-HANDWRITTEN NOTES
-       │
-       ▼
-┌───────────────┐
-│  OCR ENGINE   │
-│    TrOCR      │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│ RECOGNIZED    │
-│     TEXT      │
-└───────┬───────┘
-        │
-        ▼
+     HANDWRITTEN NOTES
+            │
+            ▼
+     ┌───────────────┐
+     │  OCR ENGINE   │
+     │    TrOCR      │
+     └───────┬───────┘
+             │
+             ▼
+     ┌───────────────┐
+     │ RECOGNIZED    │
+     │     TEXT      │
+     └───────┬───────┘
+             │
+             ▼
 ┌─────────────────────────┐
 │       NLP PIPELINE      │
 │                         │
@@ -253,16 +253,16 @@ A perception–decision–control pipeline for autonomous driving inside the **C
           │                   │
           └─────────┬─────────┘
                     ▼
-              PERCEPTION
+                PERCEPTION
                     │
                     ▼
-            DECISION ENGINE
+             DECISION ENGINE
                     │
                     ▼
-              PID CONTROL
+               PID CONTROL
                     │
                     ▼
-                 CARLA
+                  CARLA
 ```
 
 **Current Capabilities**
@@ -399,21 +399,21 @@ LEAF AREA
 # `04 // CURRENT_MISSION`
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    CURRENT OBJECTIVES                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [✓] Computer Vision                                         ║
-║  [✓] Deep Learning                                           ║
-║  [✓] Flutter Development                                     ║
-║  [✓] Backend Development                                     ║
-║  [✓] AI Model Deployment                                     ║
-║  [✓] Autonomous Driving                                      ║
-║  [→] Reinforcement Learning                                  ║
-║  [→] AI Robotics                                             ║
-║  [→] Intelligent Autonomous Systems                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                    CURRENT OBJECTIVES                      ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  [✓] Computer Vision                                       ║
+║  [✓] Deep Learning                                         ║
+║  [✓] Flutter Development                                   ║
+║  [✓] Backend Development                                   ║
+║  [✓] AI Model Deployment                                   ║
+║  [✓] Autonomous Driving                                    ║
+║  [→] Reinforcement Learning                                ║
+║  [→] AI Robotics                                           ║
+║  [→] Intelligent Autonomous Systems                        ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -455,10 +455,10 @@ LEAF AREA
               └────────────────────┼────────────────────┘
                                    │
                                    ▼
-                         AUTONOMOUS SYSTEMS
+                          AUTONOMOUS SYSTEMS
                                    │
                                    ▼
-                          REAL WORLD AI
+                            REAL WORLD AI
 ```
 
 ---
