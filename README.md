@@ -430,15 +430,7 @@ LEAF AREA
 
 ---
 
-# `06 // CONTRIBUTION_MATRIX`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talhahaha21&theme=react-dark&bg_color=0D1117&color=A970FF&line=8B5CF6&point=C084FC&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-# `07 // FUTURE_TARGET`
+# `06 // FUTURE_TARGET`
 
 ```text
                          ┌───────────────────┐
@@ -462,7 +454,7 @@ LEAF AREA
 
 ---
 
-# `08 // CONNECT`
+# `07 // CONNECT`
 
 <p align="center">
   <a href="https://github.com/Talhahaha21">
